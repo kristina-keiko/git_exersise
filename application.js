@@ -3,3 +3,4 @@ function sum (a,b){
 }
 sum(4,5);
 sum(1,2);
+sum(8,9)
